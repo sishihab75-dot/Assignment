@@ -139,5 +139,15 @@ body {
   align-items: center;
   justify-content: center;
 }
+.cta {
+  background: #f8fafc;
+  text-align: center;
+  padding: 60px 20px;
+
+}
+.cta p{
+    color:#627382;
+}
+
 
 
